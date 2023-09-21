@@ -1,4 +1,15 @@
 # cardgame1
 Card game 1
+Temporary working name: "Deck of Many Cards" DoMC. 
 
-Purpose: create a card game that is beginner friendly that teaches some core trading card game concepts
+
+Purpose: create a card game that is beginner friendly 
+Hopefully , it will teach some core trading card game concepts and strategies
+
+Objectives
+
+Create a purpose behind the ruleset (ie: why things are the way they are)
+Create a ruleset
+Create card objects
+Playtest
+Establish a narrative theme (ex: space, desert, ancient civilizations, etc). 
