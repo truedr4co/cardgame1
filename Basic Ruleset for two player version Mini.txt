@@ -1,0 +1,73 @@
+Basic Ruleset for Mini two player version.
+
+Needed materials:
+Coin. 
+A pair of dice.
+The deck of cards. ( amount).
+
+Background: 
+There are 6 zones in this game that are valid for cards to be in.
+The deck.
+The discard pile.
+Player 1’s hand.
+Player 1’s field.
+Player 2’s hand.
+Player 2’s field.
+
+Cards and their effects may override parts of the rules. 
+
+The position of cards on the field
+Cards in the discard pile, player 1 Field, and player 2 Field are public information. (both players may look at them at any time.)
+
+**Figure 1
+ 
+
+
+Game set up: 
+Shuffle the deck and place it facedown in the deck zone.
+Deal (facedown) 3 cards to each player.
+Players roll dice. The player with the higher roll goes first. (If it is a tie, re roll until someone rolls higher).
+Game overview:
+Players take turns. On a turn, a player draws a card from the deck, and plays a card from their hand (this is an action). Then, their turn ends and the opponents turn begins.
+The game ends when the turn player can not draw a card from the deck, ( the deck being empty). At this point, both players add up the total points on their side of the field. The player with the most points, wins.
+
+Optional phases may be chosen to be taken.
+
+Turn:
+1)	Draw Phase
+Draw a card. 
+
+2)	Resolution phase.
+Resolve cards or effects that are mentioned during this phase.
+
+3)	(Optional) Activation phase 1
+You can activate effects of cards that you control already faceup on your field.
+
+4)	Action phase
+Play a card from your hand to your field faceup.
+IF YOU CAN NOT PLAY A CARD: DISCARD ONE CARD AND GO DIRECTLY TO THE END PHASE.
+
+5)	(optional) Activation phase 2
+You can activate effects of cards that you control already faceup on your field.
+
+6)	End phase
+Your turn is now over and play proceeds to your opponent with their draw phase.
+
+Terminology: 
+When played: Do X
+Activate X only when this card is played (usually from your hand) as an action.
+
+“Destroy this card”
+Send this card to the discard pile (usually from the field.)
+
+“Discard this card”
+Send this card (usually from the hand) to the discard pile.
+Understanding a card.
+Every card has a name and a point value. Some cards also have an effect.
+
+“ (X)  “
+This card has a condition that must be met for an effect or activation.
+
+“Send”
+Another way of moving cards from zones. This does not destroy the card.
+
