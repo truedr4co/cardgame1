@@ -1,0 +1,14 @@
+Notes from mini version 2 players
+
+Having a card in your hand that you can not activate feels really bad. Consider removing activation conditions and instead put in when played requirements for points.
+
+Having to "remember" the status of a card is difficult. It should be possible to walk in to a game and determine the score, having not been there for the rounds. Scoring should be visible on the card, and affect text with "counters" to indicate whether any additional requirements have been met.
+
+For only two players, information is not that valuable "feeling". It is not worth it to really play a card that has less points to gain knowledge of a combo, without being able to influence the outcome. (If I want to get left hand , but I know that my opponent will draw left hand next turn off of big eye, it does not really feel that good to get the information and do nothing with it.)
+
+Last in Line underperformed (as intended). With the advent of more complicated classes and card identifiers, there will be ways to rectify this.
+
+Artwork mattered more than I thought: preference was given to simple duck over simple goose just because it looked "better".
+
+
+
