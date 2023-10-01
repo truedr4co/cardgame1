@@ -22,3 +22,5 @@ Establish a narrative theme (ex: space, desert, ancient civilizations, etc).
 Goal 1: Create a simple 2 player version of the game with no classes/attributes/other identifiers
 
 (For now, only effects and points).
+
+Goal 2: add keywords to make the effect text more concise. also: add more attributes and more cards in general. 
