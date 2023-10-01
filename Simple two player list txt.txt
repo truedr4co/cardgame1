@@ -1,0 +1,59 @@
+
+
+
+Simple Duck
+500
+
+Simple Goose
+500
+
+Right Hand
+If you control "Left Hand", this card gains +100 points
+400
+
+Left Hand
+If you control "Right Hand", this card gains +500 points
+100
+
+Giant Eyeball
+When played: Secretly look at the top card of the deck, then return it to the top of the deck facedown.
+200
+
+Greedy man
+When played: Destroy one card face up on your field
+1500
+
+Gambler
+When played: Flip a coin. If heads, put a counter on this card. This card gains +500 points if it has a counter on it.
+400
+
+Grave searcher
+You can destroy this card: Add 1 card from the discard pile to your hand, then discard one card.
+100
+
+Super swapper
+When played: select one opponents card. Give this card to your opponnent, and place the targeted card face up on your field.
+100
+
+Second in Line
+When played: (If each player controls at least 1 card) place a counter on this card. If this card has a counter on it, it thas +700 points.
+0
+
+First in Line
+When played: If you control no cards, place a counter on this card. If this card has a counter on it, it has +1500 points.
+0
+
+Last in Line
+300
+
+Deck Thinne
+When played: Send the top card of the deck to the graveyard faceup.
+400
+
+Happy person
+While faceup on the field, this card gains +300 points
+500
+
+Sad person
+While faceup on the field, this card has -300 points
+500
